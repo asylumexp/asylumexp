@@ -2,7 +2,7 @@
 
 # <h3 align="left">GitHub Stats</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samh06&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
+#[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samh06&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
