@@ -2,8 +2,4 @@
 
 # <h3 align="left">GitHub Stats</h3>
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=samh06&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samh06&layout=compact&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samh0&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
