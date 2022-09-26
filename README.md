@@ -78,11 +78,5 @@ Python                   1 repo              ███░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/samh06/samh06/master/charts/bar_graph.png) 
-
-
  Last Updated on 26/09/2022 00:51:27 UTC
 <!--END_SECTION:waka-->
