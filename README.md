@@ -84,3 +84,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
  Last Updated on 15/12/2022 00:38:53 UTC
 <!--END_SECTION:waka-->
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=samh06&theme=discord&no-frame=true&no-bg=false&margin-w=4)
