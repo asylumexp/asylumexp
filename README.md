@@ -48,17 +48,16 @@ Sunday       39 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-Go                       27 mins             ████████████████████████░   99.03% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-palera1n-tui             27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,7 +73,7 @@ Shell                    1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 04/01/2023 00:35:43 UTC
+ Last Updated on 05/01/2023 00:37:09 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
