@@ -48,17 +48,16 @@ Sunday          39 commits       ████░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-Python                   14 mins             ████████████████████████░   98.86 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -75,7 +74,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2023 00:36:50 UTC
+ Last Updated on 09/02/2023 00:36:45 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
