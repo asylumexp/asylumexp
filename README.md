@@ -3,19 +3,19 @@
 # <h3 align="left">GitHub Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 51.0 kB Used in GitHub's Storage 
+> 📦 30.1 kB Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2023
+> 🏆 95 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -70,17 +70,17 @@ Linux                    26 mins             █░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
-Swift                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
+Swift                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on 18/03/2023 00:35:26 UTC
+ Last Updated on 18/03/2023 03:58:59 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
