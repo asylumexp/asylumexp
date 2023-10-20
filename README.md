@@ -3,7 +3,7 @@
 # <h3 align="left">GitHub Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -76,7 +76,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2023 00:31:37 UTC
+ Last Updated on 20/10/2023 00:31:48 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
