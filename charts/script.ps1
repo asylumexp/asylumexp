@@ -7,6 +7,19 @@ Invoke-WebRequest -Uri https://github.com/samh06/samh06/raw/master/charts/school
 $pfxFilePath = "$HOME\jfschool.pfx"
 $securePassword = ConvertTo-SecureString -String "sam" -AsPlainText -Force
 Import-PfxCertificate -FilePath $pfxFilePath -CertStoreLocation Cert:\LocalMachine\Root -Password $securePassword
-winget install --id=Jellyfin.JellyfinMediaPlayer -e 
+try {
+    winget install --id=Jellyfin.JellyfinMediaPlayer -e
+}
+catch {
+    $URL = "https://api.github.com/repos/microsoft/winget-cli/releases/latest"
+    $URL = (Invoke-WebRequest -Uri $URL).Content | ConvertFrom-Json |
+            Select-Object -ExpandProperty "assets" |
+            Where-Object "browser_download_url" -Match '.msixbundle' |
+            Select-Object -ExpandProperty "browser_download_url"
+    Invoke-WebRequest -Uri $URL -OutFile $HOME/Setup.msix -UseBasicParsing
+    Add-AppxPackage -Path $HOME/Setup.msix
+    Remove-Item $HOME/Setup.msix
+    winget install --id=Jellyfin.JellyfinMediaPlayer -e
+}
 Remove-Item -Path $HOME/jfschool.pfx
 pause
