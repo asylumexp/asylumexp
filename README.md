@@ -11,11 +11,11 @@
 
 > 📦 188.8 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2024
+> 🏆 6 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -46,16 +46,18 @@ Sunday                   112 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               50 mins             ██████████████████████░░░   89.54 % 
+Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+jellyfin-web             56 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +73,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2024 00:37:33 UTC
+ Last Updated on 15/01/2024 00:36:06 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
