@@ -46,18 +46,16 @@ Sunday                   112 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-JavaScript               50 mins             ██████████████████████░░░   89.54 % 
-Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-jellyfin-web             56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +71,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2024 00:37:34 UTC
+ Last Updated on 22/01/2024 00:36:10 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
