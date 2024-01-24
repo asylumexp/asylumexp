@@ -15,9 +15,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 20 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -71,7 +71,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2024 00:34:56 UTC
+ Last Updated on 24/01/2024 00:34:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
