@@ -46,17 +46,16 @@ Sunday                   138 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-Python                   0 secs              ██████████████████████░░░   89.72 % 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -72,7 +71,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2024 00:05:21 UTC
+ Last Updated on 02/08/2024 00:04:38 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
