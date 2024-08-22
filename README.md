@@ -46,18 +46,16 @@ Sunday                   138 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-Binary                   3 mins              ██████████████░░░░░░░░░░░   56.46 % 
-C#                       2 mins              ███████████░░░░░░░░░░░░░░   43.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TorBoxNET                4 mins              ████████████████░░░░░░░░░   65.24 % 
-TorBox.NET               2 mins              █████████░░░░░░░░░░░░░░░░   34.76 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +71,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2024 00:04:50 UTC
+ Last Updated on 22/08/2024 00:05:13 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
