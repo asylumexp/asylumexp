@@ -46,19 +46,16 @@ Sunday                   138 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-JSON                     20 mins             ███████████████░░░░░░░░░░   61.23 % 
-C#                       7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-XML                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rdt-client-torbox        32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +71,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2024 00:05:16 UTC
+ Last Updated on 21/09/2024 00:04:50 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
