@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -71,7 +71,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2024 00:06:11 UTC
+ Last Updated on 22/11/2024 00:06:17 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
