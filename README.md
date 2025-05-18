@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,7 +75,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2025 00:06:26 UTC
+ Last Updated on 18/05/2025 00:06:46 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
