@@ -3,7 +3,7 @@
 # <h3 align="left">GitHub Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -46,16 +46,19 @@ Sunday                   296 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     22 mins             ████████████░░░░░░░░░░░░░   49.94 % 
+Python                   20 mins             ███████████░░░░░░░░░░░░░░   44.36 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          43 mins             ████████████████████████░   94.30 % 
+ProxmoxVE2               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +74,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2025 00:07:20 UTC
+ Last Updated on 16/06/2025 00:07:19 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
