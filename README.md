@@ -3,9 +3,9 @@
 # <h3 align="left">GitHub Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,17 +46,17 @@ Sunday                   309 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-C#                       3 hrs 14 mins       █████████████████████████   99.61 % 
-Microsoft Visual Studio S0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+C#                       4 hrs 18 mins       █████████████████████████   99.97 % 
+Microsoft Visual Studio S0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cab201                   3 hrs 15 mins       █████████████████████████   100.00 % 
+cab201                   4 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,7 +72,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2025 00:07:03 UTC
+ Last Updated on 13/08/2025 00:06:45 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
