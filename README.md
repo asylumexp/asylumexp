@@ -46,18 +46,16 @@ Sunday                   268 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-JSON                     11 mins             ██████████████████████░░░   87.82 % 
-TypeScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-srcoggin.github.io       12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +71,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2026 00:08:38 UTC
+ Last Updated on 13/02/2026 00:10:55 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
