@@ -74,4 +74,4 @@ C                        1 repo              ░░░░░░░░░░░�
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=asylumexp&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![](https://trophy.benkou.dev/?username=asylumexp&theme=discord&no-frame=true&no-bg=false&margin-w=4)
