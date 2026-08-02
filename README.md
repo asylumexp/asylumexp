@@ -3,17 +3,17 @@
 # <h3 align="left">GitHub Stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-784%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 419.9 kB Used in GitHub's Storage 
  > 
-> 🏆 688 Contributions in the Year 2026
+> 🏆 696 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -24,21 +24,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1164 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-🌆 Daytime                1604 commits        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-🌃 Evening                1994 commits        █████████░░░░░░░░░░░░░░░░   35.60 % 
-🌙 Night                  839 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+🌞 Morning                1229 commits        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+🌆 Daytime                1652 commits        ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+🌃 Evening                2108 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
+🌙 Night                  977 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   748 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Tuesday                  740 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Wednesday                712 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Thursday                 912 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Friday                   1320 commits        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-Saturday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Sunday                   553 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Monday                   836 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Tuesday                  795 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                735 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Thursday                 928 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Friday                   1392 commits        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Saturday                 644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Sunday                   636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 ```
 
 
@@ -48,37 +48,39 @@ Sunday                   553 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-TypeScript               18 hrs 58 mins      █████████████░░░░░░░░░░░░   53.02 % 
-Markdown                 6 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Go                       2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JSON                     2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-YAML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Markdown                 3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+TypeScript               2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Bash                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+YAML                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 💻 Operating System: 
-Mac                      35 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 39 mins (96.81%)
+⏱ AI Coding Time: 11 hrs 37 mins (91.06%)
 
-✍️ 37,180 lines written by AI, 1,643 lines written by hand (95.77% AI-written)
+✍️ 5,263 lines written by AI, 1,643 lines written by hand (76.21% AI-written)
 
-🔤 1,379,918,032 Input Tokens, 2,661,983 Output Tokens
+🔤 362,495,473 Input Tokens, 772,805 Output Tokens
 
-💵 $7017.05 Estimated AI Cost This Week
+💵 $1897.89 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 40 AI Prompts
+🧠 17 AI Sessions, 55 AI Prompts
 
-GPT                      41,733 lines        █████████████████████████   100.00 % 
-Github-Copilot           1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      7,031 lines         ████████████████████████░   96.16 % 
+Opus                     278 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Composer                 2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Github-Copilot           1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.77% of written lines came from AI
-📝 Concise Prompter — average 107 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 7.48% of changed lines were hand-edited
+🤖 AI-Driven — 76.21% of written lines came from AI
+📝 Concise Prompter — average 137 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 36.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +96,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 01:53:09 UTC
+ Last Updated on 02/08/2026 01:50:23 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
